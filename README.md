@@ -14,16 +14,6 @@ This repository is both a **knowledge base** and a **portfolio** to showcase my 
 
 ---
 
-## 📜 Certifications
-
-- ![AWS Solutions Architect]  
-  📂 [View Certificate (PDF)](./06-certifications/aws-solutions-architect-associate.pdf)
-
-- ![AWS Cloud Practitioner]
-  📂 [View Certificate (PDF)](./06-certifications/aws-cloud-practitioner.pdf)
-
----
-
 ## 📂 Repository Structure
 ```bash
 aws-solutions-architect-journey/
