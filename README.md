@@ -1,6 +1,6 @@
 # aws-solutions-architect-labs
 
-Welcome to my **AWS Solutions Architect Labs** — a curated collection of notes, hands-on labs, architecture diagrams, and automation projects I’ve built while mastering cloud architecture.  
+Welcome to my **AWS Solutions Architect Labs** — a curated collection of personal notes, hands-on labs, architecture diagrams, and automation projects I’ve built for cloud architecture.  
 This repository is both a **knowledge base** and a **portfolio** to showcase my cloud engineering growth.  
 
 ---
